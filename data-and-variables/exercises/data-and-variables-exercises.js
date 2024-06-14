@@ -2,7 +2,7 @@
 let shuttlename = 'Determination';
 let shuttlespeed = 17500;
 let marsdistance = 225000000;
-let moondistance = 384,400;
+let moondistance = 384400;
 
 // Use console.log to print the 'typeof' each variable. Print one item per line.
 
