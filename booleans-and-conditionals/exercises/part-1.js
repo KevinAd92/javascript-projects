@@ -46,12 +46,14 @@ if (engineIndicatorLight === "green") {
  } else {
    console.log("Fuel and engine status pending...");
  } 
-  // if (commandOverride = false) {
-
-  // } /else if (commandOverride = true) {
-
-// if (fuelLevel > 20000 && engineIndicatorLight = "engines are off"|| commandOverride = true){
-//      console.log("Cleared to Launch!");
- //  } else {
- //     console.log("Launch Scrubbed!");
- //  }
+   if (commandOverride = false) {
+   console.log("Launch Scrubbed!");
+   } else if (fuelLevel);
+      else if (commandOverride = true) {
+      console.log ("cleared to Launch");
+   }
+ if (fuelLevel > 20000 && engineIndicatorLight = "engines are off"|| commandOverride = true){
+     console.log("Cleared to Launch!");
+  } else {
+  console.log("Launch Scrubbed!");
+   }

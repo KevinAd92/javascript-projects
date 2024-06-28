@@ -49,7 +49,7 @@ function generatePassword(string1, string2) {
   string1.split("");
   string2.split("");
   let codeArray = []
- for ( i = 0; i < string1.length; i++){
+ for ( i = 0; i < string2.length; i++){
    codeArray.push(string1[i],string2[i]);
  }
  code = codeArray.join ("");
