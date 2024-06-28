@@ -49,6 +49,8 @@ function reverseArr(reverseStr){
     return newArr;
 }
 console.log(reverseArr(arrayTest1));
+console.log(reverseArr(arrayTest2));
+console.log(reverseArr(arrayTest3));
 
 // 1. Define and initialize an empty array.
 // 2. Loop through the old array.
