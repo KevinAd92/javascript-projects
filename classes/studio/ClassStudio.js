@@ -29,7 +29,7 @@ class CrewCandidate {
             return 'Rejected';
         }
     }
-}
+};
 
 let bear = new CrewCandidate('Bubba Bear', 135, [88,85,90]);
 let birdDog = new CrewCandidate('Merry Maltese', 1.5, [93,88,97]);
